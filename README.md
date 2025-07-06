@@ -1,8 +1,33 @@
-Hi there, I'm Janidu Gamlath 👋
-Passionate DevOps and Cloud Engineer
+<h1 align="center">Hi there, I'm Janidu Gamlath 👋</h1>
 
+<p align="center">
+  <img src="assets/your-animation.gif" alt="animated logo" width="200"/>
+</p>
 
-![Lottie Animation](https://github.com/CodeBot-creator/Janidu00/blob/bb864e24564f7743fe429915befd5bdad282c29e/Animation%20-%201751792023484%20(3).gif)
+<p align="center">
+  I'm a passionate and self-driven <strong>DevOps & Cloud Engineer</strong> who loves automating infrastructure and building reliable CI/CD pipelines using modern tools and technologies.
+</p>
 
+---
 
-I'm a passionate DevOps and Cloud Engineer focused on building scalable, automated systems using tools like AWS, Docker, Kubernetes, and Terraform. I love streamlining workflows, optimizing deployments, and driving modern infrastructure solutions.
+## 🛠️ Tech Stack
+
+### 🚀 DevOps & Cloud
+- AWS (EC2, S3, IAM, CloudWatch)
+- Docker & Docker Compose
+- Kubernetes (basic)
+- Jenkins, GitHub Actions
+- Terraform, Ansible
+
+### 💻 Tools & Platforms
+- Git, GitHub
+- Linux (Ubuntu, CentOS)
+- VS Code, Postman
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
