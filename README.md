@@ -21,9 +21,9 @@
 
 🔹 Infrastructure as Code: Terraform, Ansible
 
-🔹 CI/CD: Jenkins, GitHub Actions</br>
+🔹 CI/CD: Jenkins, GitHub Actions</br></br>
 
-💻 Languages & Scripting</br></br>
+💻 Languages & Scripting</br>
 🔸 Bash
 
 🔸 Python (basics)
