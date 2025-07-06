@@ -11,7 +11,7 @@
 
 ---
 
-💻 Tech Stack
+💻 Tech Stack</br></br>
 🧰 Infrastructure & DevOps
 🔹 Cloud: AWS (EC2, S3, IAM, CloudWatch)
 
