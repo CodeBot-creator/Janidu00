@@ -23,7 +23,7 @@
 
 🔹 CI/CD: Jenkins, GitHub Actions</br></br>
 
-💻 Languages & Scripting</br>
+💻 Languages & Scripting</br></br>
 🔸 Bash
 
 🔸 Python (basics)
