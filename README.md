@@ -11,23 +11,31 @@
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
+🧰 Infrastructure & DevOps
+🔹 Cloud: AWS (EC2, S3, IAM, CloudWatch)
 
-### ☁️ Cloud & Infrastructure
-- **AWS** (EC2, S3, IAM, CloudWatch)
-- **Terraform**, **Ansible**
-- **Docker**, **Kubernetes**
-- **Linux Servers**
+🔹 Containerization: Docker, Docker Compose
 
-### 🔧 DevOps Tools
-- **Jenkins**, **GitHub Actions**
-- **CI/CD Pipelines**
-- **Monitoring**: Prometheus, Grafana (basics)
+🔹 Orchestration: Kubernetes (Basics)
 
-### 💡 Languages & Platforms
-- Bash, Python (basics)
-- Git & GitHub
-- Visual Studio Code, Postman
+🔹 Infrastructure as Code: Terraform, Ansible
+
+🔹 CI/CD: Jenkins, GitHub Actions
+
+💻 Languages & Scripting
+🔸 Bash
+
+🔸 Python (basics)
+
+🛠️ Tools & Platforms
+⚙️ Git & GitHub
+
+⚙️ Linux (Ubuntu, CentOS)
+
+⚙️ Visual Studio Code
+
+⚙️ Postman
 
 ---
 
