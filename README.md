@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Janidu Gamlath 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeBot-creator/Janidu00/main/assets/animation.gif" alt="dev gif" width="250"/>
+  <img src="https://github.com/CodeBot-creator/Janidu00/blob/134f80e9dffdf16fc167503890816354386fa236/Animation%20-%201751792023484%20(3).gif" alt="dev gif" width="250"/>
 </p>
 
 <p align="center">
@@ -41,8 +41,8 @@
 
 ## 📬 Connect with Me
 
-- 📧 **Email**: janidu.gamlath@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/janidu](https://linkedin.com/in/janidu)  
+- 📧 **Email**: gamlath18@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/janidu](https://www.linkedin.com/in/janidu-gamlath-007552299/)  
 - 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
