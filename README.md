@@ -12,7 +12,7 @@
 ---
 
 💻 Tech Stack</br></br>
-🧰 Infrastructure & DevOps</br>
+🧰 Infrastructure & DevOps</br></br>
 🔹 Cloud: AWS (EC2, S3, IAM, CloudWatch)
 
 🔹 Containerization: Docker, Docker Compose
@@ -23,7 +23,7 @@
 
 🔹 CI/CD: Jenkins, GitHub Actions
 
-💻 Languages & Scripting</br>
+💻 Languages & Scripting</br></br>
 🔸 Bash
 
 🔸 Python (basics)
